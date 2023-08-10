@@ -14,3 +14,12 @@
 
 # CLI 명령어 터미널에서 지우고 싶을 때
 - npm rm -g node-cli
+
+
+# CLI 프로그램 쉽게 짤 수 있도록 도와주는 모듈
+[commander@9]
+- commander 모듈을 활용해서 만든 template.js => command.js
+[inquirer@8]
+- readline의 업그레이드 버전
+[chalk@4] = 분필
+- command 라인에 색을 입힐 수 있게 해줌
